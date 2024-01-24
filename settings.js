@@ -2,9 +2,9 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoReading = true //auto recording (true to on, false to off)
-global.autoTyping = true //auto tying (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoReading = false //auto recording (true to on, false to off)
+global.autoTyping = false //auto tying (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
@@ -22,27 +22,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "923138164795" //ur owner number2
-global.ownername = "🦄Zain Office Bot" //ur owner name
+global.ownernomer = "2347069763306" //ur owner number2
+global.ownername = "𝐈𝐚𝐦𝐱𝐝𝐚†𝐉☯︎𝐤𝐞𝐫—𝐈𝐊𝐀𝐇🎃" //ur owner name
 global.ytname = "YT: 3DiWorld" //ur yt chanel name
-global.socialm = "GitHub: DARKWORLDmax" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: iamevilboy" //ur github or insta name
+global.location = "nigeria, abuja, Lagos" //ur location
 
 //new
-global.botname = "DARK Web WORLD"
-global.ownernumber = '923138164795'
-global.ownername = 'Zain Ahmed'
-global.ownerNumber = ["923138164795@s.whatsapp.net"]
+global.botname = "•—ANTISOCIAL—•"
+global.ownernumber = '2347069763306'
+global.ownername = '𝐈𝐚𝐦𝐱𝐝𝐚†𝐉☯︎𝐤𝐞𝐫—𝐈𝐊𝐀𝐇🎃'
+global.ownerNumber = ["2347069763306@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@3DiWorld"
 global.websitex = "https://youtube.com/@3DiWorld"
-global.wagc = "https://chat.whatsapp.com/BbkrFu9FSac3pBa2PIoV0d"
-global.themeemoji = '🌹'
+global.wagc = "https://chat.whatsapp.com/Gj1FvKtIG91Hh312aDXzdR"
+global.themeemoji = '🎃'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "DarkWorld Stickers"
-global.creator = "923138164795@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.creator = "2347069763306@s.whatsapp.net"
+global.prefa = ['','!','🎃','📌','&']
 global.sessionName = 'session'
 global.hituet = 0
 
